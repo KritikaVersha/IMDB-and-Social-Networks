@@ -1,5 +1,11 @@
 IMDB-and-Social-Networks
 ========================
+Output:
+
+![Alt text](https://github.com/KritikaVersha/Network-Visualization-IMDB-and-Social-Networks/blob/master/IMDB-and-Social-Networks/actors_graph_output.png)
+https://github.com/KritikaVersha/Network-Visualization-IMDB-and-Social-Networks/blob/master/IMDB-and-Social-Networks/actors_graph_output.png
+
+
 Step 1
 
 I have fetched the IMDB top 100 movies (by number of votes) page using this URL:
