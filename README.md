@@ -2,7 +2,7 @@ IMDB-and-Social-Networks
 ========================
 
 ![Alt text](https://github.com/KritikaVersha/Network-Visualization-IMDB-and-Social-Networks/tree/master/IMDB-and-Social-Networks/step1.html?raw=true)
-https://github.com/KritikaVersha/Network-Visualization-IMDB-and-Social-Networks/tree/master/IMDB-and-Social-Networks
+https://github.com/KritikaVersha/Network-Visualization-IMDB-and-Social-Networks/tree/master/IMDB-and-Social-Networks/step1.html
 
 Step 1
 
